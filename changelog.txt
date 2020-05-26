@@ -1,0 +1,32 @@
+Name:Yan Yangqin
+ID:518370910065
+
+------Project II Changelog---------
+
+-2019-6-24
+The structure of cards is created.
+The structure of deck is created.
+The structure of hand is created.
+The shuffle function is created.
+The card-generating function is created.
+The distributing function is created.
+There is a bug of operating these functions.
+-2019-7-1
+Users can name the player.
+The structure of players is constructed.
+Some cards have special effects, but many bugs exist there.
+The system can judge who wins the game.
+When a player is playing the game, the system will clear the information of other players' records.
+The system can recognize whether the card a player plays is valid or not. If it is invalid, the system will ask the player to replay another card or draw a card.
+-2019-7-8
+Players are created in form of doublely-linked list.
+Each player can be named.
+The demo mode is constructed.
+Special cards have no effects since there are bugs.
+-2019-7-14
+Log files can be created after each game.
+Users can name the log file.(The default name is onecard.log)
+Bugs that special cards do not have effect are fixed.
+
+
+
